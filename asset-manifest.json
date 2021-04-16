@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Fudbuunild/VirtualSit.git/static/css/main.c996df78.chunk.css",
+    "main.js": "/Fudbuunild/VirtualSit.git/static/js/main.a67a1d02.chunk.js",
+    "main.js.map": "/Fudbuunild/VirtualSit.git/static/js/main.a67a1d02.chunk.js.map",
+    "runtime-main.js": "/Fudbuunild/VirtualSit.git/static/js/runtime-main.22b79482.js",
+    "runtime-main.js.map": "/Fudbuunild/VirtualSit.git/static/js/runtime-main.22b79482.js.map",
+    "static/js/2.cd0d79c0.chunk.js": "/Fudbuunild/VirtualSit.git/static/js/2.cd0d79c0.chunk.js",
+    "static/js/2.cd0d79c0.chunk.js.map": "/Fudbuunild/VirtualSit.git/static/js/2.cd0d79c0.chunk.js.map",
+    "index.html": "/Fudbuunild/VirtualSit.git/index.html",
+    "static/css/main.c996df78.chunk.css.map": "/Fudbuunild/VirtualSit.git/static/css/main.c996df78.chunk.css.map",
+    "static/js/2.cd0d79c0.chunk.js.LICENSE.txt": "/Fudbuunild/VirtualSit.git/static/js/2.cd0d79c0.chunk.js.LICENSE.txt",
+    "static/media/1.svg": "/Fudbuunild/VirtualSit.git/static/media/1.a79318fc.svg",
+    "static/media/2.svg": "/Fudbuunild/VirtualSit.git/static/media/2.c9d7a666.svg",
+    "static/media/3.svg": "/Fudbuunild/VirtualSit.git/static/media/3.f76d007a.svg",
+    "static/media/video.d48e2181.mp4": "/Fudbuunild/VirtualSit.git/static/media/video.d48e2181.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.22b79482.js",
+    "static/js/2.cd0d79c0.chunk.js",
+    "static/css/main.c996df78.chunk.css",
+    "static/js/main.a67a1d02.chunk.js"
+  ]
+}
